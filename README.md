@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting up Virtual Machines inside of Azure](https://github.com/aebosom/osticket-prereqs)
+  - [Setting up a VM](https://github.com/aebosom/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
