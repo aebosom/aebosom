@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, an <a href="https://www.linkedin.com/in/andrew-bosom-376720362/">IT Professional</a>☺</h1>
+<h1>Hello, I'm Andrew, an <a href="https://www.linkedin.com/in/andrew-bosom-376720362/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
