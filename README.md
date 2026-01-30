@@ -2,11 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Azure (Hardware on the Cloud)</b>
-  - [Setting up Virtual Machines inside of Azure](https://github.com/aebosom/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aebosom/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aebosom/azure-network-protocols)
+  - [Setting up Virtual Machines inside of Azure](https://github.com/aebosom/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
