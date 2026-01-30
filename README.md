@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting up a VM](https://github.com/aebosom/osticket-prereqs)
+  - [Using Remote Desktop](https://github.com/aebosom/Using-Remote-Desktop)
 
 <h2>🤳Connect with me:</h2>
 
